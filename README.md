@@ -1,21 +1,21 @@
-* Traffic Object Detection using YOLO
+# 🚗 Traffic Object Detection using YOLO
 
-* Overview
-This project uses YOLO model to detect objects like cars and people in traffic videos.
+## 📌 Overview
+This project uses the YOLO model to detect objects such as cars and pedestrians in traffic videos.
 
-* Technologies
+## ⚙️ Technologies
 - Python
 - YOLO
 - OpenCV
 - Computer Vision
-- Ai
-- ML
-- DL
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
 
-## Features
+## 🚀 Features
 - Detects cars
-- Detects people
-- Works on video
+- Detects pedestrians
+- Works on video streams
 
-## Achievement
-AI Solution of the Year – iSchool talent 2025
+## 🏆 Achievement
+AI Solution of the Year – iSchool Talents 2025
